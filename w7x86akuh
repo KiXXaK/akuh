@@ -1,7 +1,6 @@
 echo "===================================="
 echo "Download windows files"
 echo "===================================="
-curl -L -o w7x86.img https://app.vagrantup.com/robertsavesave/boxes/save/versions/86/providers/virtualbox.box
 echo "===================================="
 echo "Download ngrok"
 echo "===================================="
